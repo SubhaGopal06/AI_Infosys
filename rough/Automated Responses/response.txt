@@ -1,0 +1,714 @@
+Categories, Product Names and Issues with % Coverage:
+
+Product: Cisco Route
+  Issue: Dear Customer Support Team , We are experiencing a complete outage affecting our enterprise network involving Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: Dear Customer Support,<br><br > I am experiencing intermittent network connectivity issues , which have been temporarily resolved by rebooting the affected Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: to bring to your attention a critical issue we are currently experiencing with our Cisco Router ISR4331, Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing sporadic connectivity issues with my recently purchased Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ We are experiencing frequent network drops with our Cisco Router ISR4331 , severely affecting our office connectivity ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ We are experiencing a critical network outage owing to a malfunction in our Cisco Router ISR4331 , which has led to widespread connectivity issues across our organization ., Coverage: 0.32%
+  Issue: Hello Customer Support , 
+
+
+ We are facing constant network disruptions with our Cisco Router ISR4331 that are significantly hindering our office 's connectivity ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am reaching out to report frequent network disconnections that we have been experiencing in our system , potentially due to either misconfigured settings or a hardware malfunction in our Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: to report a high - priority incident involving our Cisco Router ISR4331, Coverage: 0.32%
+  Issue: to report a high - priority incident involving unstable connectivity issues with our Cisco Router ISR4331 , which is currently impacting the performance of our enterprise network, Coverage: 0.32%
+  Issue: to report a network connectivity issue we are experiencing with our Cisco Router ISR4331 , impacting our secure enterprise networking and high - performance connections, Coverage: 0.32%
+  Issue: Dear Support Team , 
+
+
+ We are facing recurring network disconnections with our Cisco Router ISR4331 , which is significantly impacting our office connectivity ., Coverage: 0.32%
+  Issue: Hello , I am experiencing frequent disconnections on my Cisco Router ISR4331 , severely affecting network performance and client productivity ., Coverage: 0.32%
+  Issue: to report an issue with our Cisco Router ISR4331 at our headquarters, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am reaching out to report a critical issue with our Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: I am contacting you to inform you of a pressing issue with our Cisco Router ISR4331 , which has recently gone offline unexpectedly , greatly affecting our network stability in the office ., Coverage: 0.32%
+  Issue: Hello Customer Support Team , 
+
+
+ Our Cisco Router ISR4331 is facing recurring network disruptions , greatly impacting our office connectivity ., Coverage: 0.32%
+
+Product: Dell XPS 13
+  Issue: I am experiencing an intermittent cursor freezing issue on my Dell XPS 13 9310 ., Coverage: 0.32%
+  Issue: to report that my Dell XPS 13 9310 is overheating after a few hours of use, Coverage: 0.32%
+  Issue: to seek assistance with a screen flickering issue I 've been experiencing with my Dell XPS 13 9310 Ultrabook, Coverage: 0.32%
+  Issue: to express my concerns about the performance of the Dell XPS 13 9310 Ultrabook that I encountered during a pre - sales demonstration at your store, Coverage: 0.32%
+  Issue: I 'm facing some issues ., Coverage: 0.32%
+  Issue: to bring to your attention a critical issue I am experiencing with my Dell XPS 13 9310 laptop purchased from your Tech Online Store, Coverage: 0.32%
+
+Product: Tech Online Store
+  Issue: Dear Tech Online Store Customer Support , 
+
+
+ I hope this message finds you well ., Coverage: 3.18%
+  Issue: Dear Tech Online Store Support Team , 
+
+
+ I am seeking assistance with setting up wireless and mobile printing features for my Canon PIXMA MG3620 printer ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Customer Support ,   I am reaching out with a query about the compatibility of the MacBook Air M1 for specific software applications used in graphic design ., Coverage: 0.32%
+  Issue: Greetings Tech Online Store Support Team , 
+
+
+ I am facing frequent paper jams with my Canon PIXMA MG3620 printer , making it quite challenging to use effectively ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Customer Support , 
+
+
+ I am reaching out to report several issues with my HP DeskJet 3755 printer ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Customer Support team , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: to bring to your attention an issue I have encountered with the MacBook Air M1 I recently purchased from your store, Coverage: 0.32%
+  Issue: to request a printer settings change for my Canon PIXMA MG3620 to facilitate easier mobile printing and improve duplex printing performance, Coverage: 0.32%
+  Issue: Dear Support Team of the Tech Online Store , 
+
+
+ I trust this message finds you in good spirits ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Customer Support , 
+
+
+ I am reaching out for assistance with effectively configuring Jira Software 8.20 for project management using Scrum and integrating it with Confluence ., Coverage: 0.32%
+  Issue: to report an issue with my Dell XPS 13 9310 , which is not powering on after a factory reset, Coverage: 0.32%
+  Issue: to seek assistance regarding a persistent issue that I am experiencing with my Dell XPS 13 9310 , which I purchased from your store, Coverage: 0.32%
+  Issue: Dear Tech Online Store Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: Dear Customer Support at Tech Online Store , 
+
+
+ I am getting in touch to inform you about a critical issue currently plaguing the Zoom application , notably version 5.11.0 ., Coverage: 0.32%
+  Issue: to inform you about a high - priority incident currently affecting the Zoom application , version 5.11.0, Coverage: 0.32%
+  Issue: Dear Tech Online Store Support , 
+
+
+ I am experiencing screen flickering on my Dell XPS 13 9310 when running multiple applications ., Coverage: 0.32%
+  Issue: Dear Support Team of Tech Online Store , 
+
+
+ I hope you 're doing well ., Coverage: 0.32%
+  Issue: Any support that Tech Online Store can provide in addressing this concern would be sincerely appreciated ., Coverage: 0.32%
+  Issue: Dear Customer Help Team at Tech Online Store , 
+
+
+ I trust this message finds you in good spirits ., Coverage: 0.32%
+
+Product: IT Services
+  Issue: to request professional assistance with server administration within our software development environment, Coverage: 0.32%
+  Issue: Dear IT Services Customer Support , 
+
+
+ I am reaching out to request assistance with an ongoing issue concerning the network configuration on our Cisco Router ISR4331 , which has been causing significantly slow network performance ., Coverage: 0.32%
+  Issue: Dear IT Services Customer Support , 
+
+
+ We are reporting a high - priority incident involving a faulty Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: Dear IT Services Customer Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: to request urgent assistance from your IT Services team, Coverage: 0.32%
+  Issue: to inquire about the IT Consulting Service offerings, Coverage: 0.32%
+  Issue: to request some changes in the AWS Management Dashboard specifically related to updating the deployment auto - scaling settings, Coverage: 0.32%
+
+Product: Support Team
+  Issue: Hello Support Team , 
+
+
+ I am reaching out to urgently request help regarding an issue I 'm facing with Microsoft Office 365 : Excel ., Coverage: 0.32%
+  Issue: Given the urgent nature of this matter , I would truly appreciate it if your support team could provide a prompt and effective solution ., Coverage: 0.32%
+  Issue: to request immediate expert assistance regarding our IT Consulting Service, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 6.69%
+  Issue: Dear Customer Support Team , I hope this message finds you well ., Coverage: 0.64%
+  Issue: Dear Customer Support Team,<br><br > I am writing to request immediate technical assistance for a high - priority issue we are experiencing with the Zoom application , version 5.11.0 , during our webinars ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am reaching out to report a critical issue with the Dell XPS 13 9310 laptop that was purchased recently from your Tech Online Store ., Coverage: 0.32%
+  Issue: to bring to your attention that our Cisco Router , model ISR4331 , is experiencing intermittent connectivity issues, Coverage: 0.32%
+  Issue: Hello Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.64%
+  Issue: to report a high priority incident that requires immediate attention and troubleshooting in our IT Consulting Service, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I hope this email finds you well ., Coverage: 0.32%
+  Issue: to request some updates concerning the ticketing system in our instance of Jira Software 8.20, Coverage: 0.32%
+  Issue: Dear Customer Support Team of IT Services , I am reaching out to highlight an urgent issue regarding a significant AWS service disruption that is severely affecting our cloud systems ., Coverage: 0.32%
+  Issue: to bring to your immediate attention a critical issue we are facing with the AWS Management Service, Coverage: 0.32%
+  Issue: Hello Support Team , 
+
+
+ I am contacting you to request immediate professional assistance regarding our IT Consulting Services ., Coverage: 0.32%
+  Issue: to seek assistance regarding some billing discrepancies I have encountered with our AWS cloud computing infrastructure services , particularly associated with the AWS Management Service, Coverage: 0.32%
+  Issue: Dear Customer Support Team , I am reaching out to request your assistance with optimizing our organization 's cloud infrastructure settings to reduce costs using your AWS Management Service ., Coverage: 0.32%
+  Issue: Hello Customer Support Team , We are encountering significant issues related to high latency which is impacting our AWS Management Service ., Coverage: 0.32%
+  Issue: to report a difficulty we 've encountered while managing the ticket system during our server administration within the IT consulting workflow , specifically affecting your IT Consulting Service, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I hope this message finds you in good spirits ., Coverage: 0.32%
+  Issue: Hello Customer Support Team , I hope you are doing well ., Coverage: 0.32%
+  Issue: to inform you of a critical service outage that we experienced during our recent infrastructure deployment while using your AWS Management Service, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am reaching out to report a problem I observed after implementing the most recent update to our front - end application ., Coverage: 0.32%
+  Issue: to express our concern regarding the current unavailability of the Jira ticket system , which is severely impacting our project management efforts, Coverage: 0.32%
+  Issue: Hello Customer Support Team , 
+
+
+ I trust this message finds you in good spirits ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am contacting you to request urgent technical support regarding our IT consulting services , specifically due to significant issues with server management that are impacting our operations ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am contacting you to seek prompt professional help regarding our IT Consulting Service ., Coverage: 0.32%
+
+Product: JavaScript
+  Issue: The issue pertains to the JavaScript React App Development Service , which we availed from your company ., Coverage: 0.32%
+
+Product: Team
+  Issue: Dear Customer Support Team , 
+
+
+ I am experiencing intermittent access issues with our AWS - based web application in the production environment ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 1.27%
+  Issue: to report Wi - Fi connectivity issues I am experiencing with my Canon PIXMA MG3620 printer, Coverage: 0.32%
+  Issue: to report a critical issue impacting my work efficiency, Coverage: 0.32%
+  Issue: I would appreciate it if your technical team could investigate this matter urgently ., Coverage: 0.32%
+  Issue: to seek assistance regarding our recent need for guidance on optimizing server configurations, Coverage: 0.32%
+  Issue: Your expertise in this area is highly valued by our team . 
+
+
+, Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am reaching out to seek urgent professional help regarding our IT Consulting Service ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am contacting you to urgently seek assistance regarding a challenge I am encountering with Microsoft Office 365 : Excel ., Coverage: 0.32%
+  Issue: Considering the significance and urgency of this issue , I would greatly appreciate it if your support team could provide a swift and effective remedy ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am experiencing issues connecting my HP DeskJet 3755 to my Wi - Fi network , which is preventing any remote printing tasks ., Coverage: 0.32%
+  Issue: Hello Support Team , 
+
+
+ I am looking for specialized assistance with software development and server maintenance via your IT Consulting Service ., Coverage: 0.32%
+  Issue: Dear Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , I hope this message finds you well ., Coverage: 0.32%
+  Issue: Dear Support Team , I 've encountered a billing error on my recent purchase of the MacBook Air M1 ., Coverage: 0.32%
+  Issue: Hello Customer Support Team , 
+
+
+ We urgently require assistance regarding the optimization of our AWS expenses , as we are facing unexpected costs due to a rise in data consumption and processing resources associated with your AWS Management Service . 
+
+
+, Coverage: 0.32%
+  Issue: to bring to your attention a recurring problem with my MySQL 8.0.30 server , which is experiencing frequent downtimes, Coverage: 0.32%
+  Issue: Greetings Support Team , 
+
+
+ I require professional help with software development and server administration through your IT Consulting Service ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am contacting you to report a significant problem with our Cisco Router ISR4331 ., Coverage: 0.32%
+
+Product: IT Services Support
+  Issue: to inform you about significant challenges we are experiencing with AWS resource optimization under the AWS Management Service, Coverage: 0.32%
+  Issue: to report an issue with Microsoft Office 365, Coverage: 0.32%
+  Issue: to request a review and modification of our current AWS Management Service configuration, Coverage: 0.32%
+  Issue: to inform you about several issues I have been experiencing with the Slack 4.23.0 application, Coverage: 0.32%
+
+Product: AWS EC2
+  Issue: to seek assistance with an issue I am experiencing while setting up a security group for an AWS EC2 instance, Coverage: 0.32%
+
+Product: IT Services Customer Support Team
+  Issue: Dear IT Services Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.64%
+  Issue: to request assistance with an issue faced by one of our users, Coverage: 0.32%
+  Issue: Dear IT Services Customer Support Team , 
+
+
+ I am reaching out to request some changes in our current AWS infrastructure settings , specifically focusing on enhancing security and improving cost efficiency ., Coverage: 0.32%
+  Issue: to bring attention to a major AWS outage that is significantly disrupting our cloud infrastructure, Coverage: 0.32%
+  Issue: Dear IT Services Customer Support Team , I hope this message finds you well ., Coverage: 0.32%
+
+Product: AWS
+  Issue: The customer is facing challenges with accessing the AWS console following the latest update ; they need immediate support ., Coverage: 0.32%
+  Issue: Could you please provide the most current details about AWS usage and cost recommendations ?, Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ We are experiencing significant issues with our AWS deployment related to your AWS Management Service ., Coverage: 0.32%
+  Issue: Customer unable to access AWS console post - update ; needs immediate resolution ., Coverage: 0.32%
+  Issue: Dear Customer Support , I am reaching out to request immediate assistance with configuring our AWS infrastructure using the AWS Management Service ., Coverage: 0.32%
+  Issue: Kindly share the latest information regarding AWS utilization and cost guidance ., Coverage: 0.32%
+  Issue: Please provide updates on AWS usage and cost advisory ., Coverage: 0.32%
+  Issue: to bring to your attention an issue concerning the recent billing related to our AWS cloud usage, Coverage: 0.32%
+  Issue: It seems the charges associated with the AWS Management Service do not align with the actual usage recorded on our account < acc_num > . 
+
+
+, Coverage: 0.32%
+  Issue: The client is facing challenges in accessing the AWS console following the update and needs prompt support ., Coverage: 0.32%
+
+Product: Tech Online Store Support Team
+  Issue: Dear Tech Online Store Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 1.27%
+  Issue: to request assistance with setting up and troubleshooting the Wi - Fi connectivity on my Canon PIXMA MG3620 printer, Coverage: 0.32%
+  Issue: to request an exchange for a recently purchased Canon PIXMA MG3620 wireless printer , which has been experiencing print quality issues, Coverage: 0.32%
+  Issue: to request assistance with a recurring issue I 've been experiencing during video conferencing sessions using the Zoom version 5.11.0 application , which I purchased from your store, Coverage: 0.32%
+  Issue: to report consistent issues with Slack 's real - time messaging capabilities on various channels, Coverage: 0.32%
+  Issue: Dear Tech Online Store Support Team , 
+
+
+ I am considering purchasing the MacBook Air M1 and would like to know more about its battery life and performance ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Support Team , I am experiencing repeated paper jams with my Epson EcoTank ET-4760 printer ., Coverage: 0.32%
+  Issue: to report an issue with the Wi - Fi connection on my Canon PIXMA MG3620 printer, Coverage: 0.32%
+
+Product: HP DeskJet
+  Issue: Hello Customer Support , 
+
+
+ I am experiencing a problem with my HP DeskJet 3755 printer ., Coverage: 0.32%
+  Issue: Dear Customer Support , I am experiencing difficulties in connecting my new HP DeskJet 3755 printer to my Wi - Fi network ., Coverage: 0.32%
+  Issue: Experiencing issues with HP DeskJet 3755 printer remotely ., Coverage: 0.32%
+  Issue: Hello , I am seeking assistance on setting up wireless printing for my HP DeskJet 3755 from my mobile device ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing wireless connectivity issues with the HP DeskJet 3755, Coverage: 0.32%
+  Issue: Greetings Customer Support , 
+
+
+ I am facing an issue with my HP DeskJet 3755 printer ., Coverage: 0.32%
+  Issue: to report a persistent issue with my HP DeskJet 3755 printer , which frequently experiences paper jams during wireless printing tasks, Coverage: 0.32%
+
+Product: AWS Management Service
+  Issue: We are experiencing connectivity issues with the AWS Management Service , resulting in disruptions to our client 's website ., Coverage: 0.32%
+  Issue: Dear Customer Support , we are experiencing significant issues with the AWS Management Service impacting deployment and infrastructure ., Coverage: 0.32%
+  Issue: to report a high - priority incident involving the AWS Management Service, Coverage: 0.32%
+  Issue: to bring to your attention unexpected charges that have appeared on my account related to your AWS Management Service, Coverage: 0.32%
+  Issue: Dear Support Team , We are currently facing incident challenges due to significant latency impacting our AWS Management Service ., Coverage: 0.32%
+  Issue: to inquire about your AWS Management Service ,, Coverage: 0.32%
+  Issue: Could you please provide more information on how your AWS Management Service can assist us in achieving these goals ?, Coverage: 0.32%
+  Issue: Dear Customer Support Team , We are experiencing incident issues due to high latency affecting our AWS Management Service ., Coverage: 0.32%
+  Issue: to request a detailed review of a billing discrepancy related to my recent invoice for AWS Management Service, Coverage: 0.32%
+  Issue: to express my concerns regarding discrepancies in my recent invoice for the AWS Management Service, Coverage: 0.32%
+  Issue: We are encountering connection problems with the AWS Management Service , leading to downtime for the client website ., Coverage: 0.32%
+
+Product: Microsoft Surface Pro 7
+  Issue: to bring to your attention an issue with my Microsoft Surface Pro 7 , where the touchscreen becomes intermittently unresponsive, Coverage: 0.32%
+  Issue: My Microsoft Surface Pro 7 details , including purchase and warranty information , are attached for your reference ., Coverage: 0.32%
+  Issue: to report a persistent issue with my Microsoft Surface Pro 7 , purchased recently from Tech Online Store, Coverage: 0.32%
+
+Product: Cisco Router IS
+  Issue: Specifically , this issue pertains to our Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: to inform you about a high priority technical issue we are experiencing with the Cisco Router ISR4331, Coverage: 0.32%
+  Issue: Dear Customer Support , our Cisco Router ISR4331 is malfunctioning , severely impacting internet connectivity during peak business hours ., Coverage: 0.32%
+
+Product: Online Store Support
+  Issue: Hello Tech Online Store Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+
+Product: IT Services Support Team
+  Issue: Dear IT Services Support Team , I hope this message finds you well ., Coverage: 0.32%
+  Issue: Dear IT Services Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.64%
+  Issue: to express concern regarding an outage reported during the scheduled maintenance of AWS servers , which has significantly impacted our cloud computing services and infrastructure deployment, Coverage: 0.32%
+  Issue: to report an issue with the Cisco Router ISR4331 that is experiencing sudden connectivity disruptions, Coverage: 0.32%
+  Issue: to urgently seek assistance regarding a vital matter, Coverage: 0.32%
+  Issue: Dear IT Services Support Team , 
+
+
+ Our organization , < name > , is currently experiencing a significant downtime in our AWS Management Service infrastructure ., Coverage: 0.32%
+  Issue: to report a critical issue concerning the AWS Management Service that our client , < name > , is currently facing, Coverage: 0.32%
+  Issue: to inform you of a critical issue we are experiencing with our AWS infrastructure deployment , which is significantly affecting our cloud service operational efficiency and cost optimization efforts, Coverage: 0.32%
+  Issue: to report a billing discrepancy that I have encountered concerning my recent AWS cloud service deployment charges , specifically related to the AWS Management Service, Coverage: 0.32%
+  Issue: to bring to your attention a significant issue affecting the efficiency of our software development process, Coverage: 0.32%
+  Issue: Dear IT Services Support Team , 
+
+
+ I am reaching out urgently to request immediate assistance with a critical issue ., Coverage: 0.32%
+  Issue: to express that I am encountering significant challenges with cloud deployment , specifically using the AWS Management Service, Coverage: 0.32%
+  Issue: to inform you of a critical issue we are facing with the AWS Management Service, Coverage: 0.32%
+  Issue: to report an urgent issue our client is facing related to AWS authentication errors, Coverage: 0.32%
+
+Product: Jira Software
+  Issue: to urgently request an update for our customer - facing project management tool , Jira Software 8.20, Coverage: 0.32%
+  Issue: Dear Support Team , 
+
+
+ We are experiencing defects in Jira Software 8.20 ., Coverage: 0.32%
+  Issue: I am reaching out with an urgent request to modify the ticket categorization setup in our Jira Software 8.20 for enhanced project management ., Coverage: 0.32%
+  Issue: We are encountering an issue with the user permissions setup within our Jira Software instance , specifically with version 8.20 ., Coverage: 0.32%
+  Issue: to request an update of Jira Software 8.20 to the latest version, Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am facing a critical issue accessing the core features of Jira Software 8.20 due to a license problem ., Coverage: 0.32%
+
+Product: MacBook Air M1
+  Issue: My MacBook Air M1 is not powering on ., Coverage: 0.32%
+  Issue: Dear Customer Support Team , 
+
+
+ I am facing unexpected battery drainage issues with my MacBook Air M1 ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing overheating issues with my MacBook Air M1 during charging and regular use , which leads to performance problems ., Coverage: 0.32%
+  Issue: found the keyboard faulty within two weeks, Coverage: 0.32%
+  Issue: Hello , 
+
+
+ I am experiencing intermittent screen flickering on my MacBook Air M1 during video playback , which affects usage ., Coverage: 0.32%
+  Issue: I wanted to inquire about the availability and current pricing of the MacBook Air M1 on your online store ., Coverage: 0.32%
+
+Product: Tech Online Store Support
+  Issue: to report a persistent issue with my Microsoft Surface Pro 7 , which was purchased on account number < acc_num, Coverage: 0.32%
+  Issue: to report an ongoing screen flickering issue with my MacBook Air M1, Coverage: 0.32%
+  Issue: Dear Tech Online Store Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.64%
+  Issue: Dear Tech Online Store Support , 
+
+
+ I am experiencing frequent paper jams with my Canon PIXMA MG3620 printer , making it nearly impossible to use effectively ., Coverage: 0.32%
+  Issue: Dear Tech Online Store Support , 
+
+
+ I 'm experiencing frequent disconnection issues with my HP DeskJet 3755 printer ., Coverage: 0.32%
+  Issue: to urgently request assistance regarding a serious hardware malfunction with my Dell XPS 13 9310 laptop, Coverage: 0.32%
+
+Product: Dell XPS
+  Issue: Hi , I 've noticed performance issues with my Dell XPS 13 9310 after the latest update ., Coverage: 0.32%
+  Issue: Dear Customer Support , I am reaching out to report an issue with my Dell XPS 13 ( model 9310 ) purchased from your Tech Online Store ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing boot issues with my Dell XPS 13 9310 laptop running Windows 10 ., Coverage: 0.32%
+  Issue: Hello Customer Support , 
+
+
+ I am experiencing high temperature issues on my Dell XPS 13 9310 while editing videos on Windows 11 ., Coverage: 0.32%
+  Issue: to report a high - priority incident involving a potential hardware failure with my Dell XPS 13 9310, Coverage: 0.32%
+
+Product: Oracle Database
+  Issue: Dear Customer Support Team , 
+
+
+ We are currently experiencing connectivity issues with Oracle Database 19c ., Coverage: 0.32%
+
+Product: Adobe Photoshop
+  Issue: to request assistance regarding an issue I am experiencing with the installation of Adobe Photoshop 2024, Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing a high priority issue accessing Adobe Photoshop 2024 via my Creative Cloud subscription ., Coverage: 0.32%
+
+Product: Zoo
+  Issue: to report a problem with intermittent audio issues during video meetings using the Zoom application , version 5.11.0, Coverage: 0.32%
+  Issue: Hello , 
+
+
+ I am experiencing frequent disconnections while joining video conferences on Zoom 5.11.0 ., Coverage: 0.32%
+  Issue: We are using Zoom version 5.11.0 , and to ensure enhanced security alongside the integration of new features , we are keen to upgrade to the latest version available . 
+
+
+, Coverage: 0.32%
+  Issue: Our users depend heavily on Zoom for daily operations and meetings , and ensuring we use the most secure and efficient version is crucial for our continuity ., Coverage: 0.32%
+  Issue: The recent updates from Zoom have reportedly addressed various security issues and introduced enhancements we believe that will significantly benefit our operations . 
+
+
+, Coverage: 0.32%
+
+Product: Epson EcoT
+  Issue: to request technical support for my Epson EcoTank ET-4760 printer, Coverage: 0.32%
+  Issue: to inquire about the features and the current availability of the Epson EcoTank ET-4760 printer in your online store, Coverage: 0.32%
+
+Product: Amazon
+  Issue: Dear Customer Support Team , 
+
+
+ I am reaching out to request guidance on efficiently navigating the Amazon platform to locate electronics discounts during the upcoming sales event ., Coverage: 0.32%
+
+Product: IT Consulting Service
+  Issue: Dear Customer Support , 
+
+
+ I would like to request the billing details and available payment options for the recent IT Consulting Service engagement last month ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am reaching out to report an immediate concern regarding our server admin interface , under your IT Consulting Service ., Coverage: 0.32%
+  Issue: We are currently utilizing your IT Consulting Service but have encountered some challenges in fully leveraging its benefits to enhance our operational efficiency ., Coverage: 0.32%
+  Issue: to seek clarification regarding an unexpected service charge on my recent bill for the IT Consulting Service, Coverage: 0.32%
+  Issue: Specifically , I need assistance with understanding software updates and maintenance schedules related to your IT Consulting Service ., Coverage: 0.32%
+  Issue: Dear Support Team , 
+
+
+ I am reaching out to inform you of a critical issue that necessitates urgent intervention and troubleshooting concerning our IT Consulting Service ., Coverage: 0.32%
+  Issue: Our team relies heavily on the effectiveness of your IT Consulting Services , and it is essential that this matter is addressed as soon as possible to lessen any disruption ., Coverage: 0.32%
+  Issue: Our IT Consulting Service has been affected , and it 's crucial to restore server functionality as soon as possible ., Coverage: 0.32%
+  Issue: We believe that the IT Consulting Service offered by your company could provide significant improvements ., Coverage: 0.32%
+
+Product: PostgreSQL
+  Issue: to express urgent concerns regarding our PostgreSQL 14.3 database server , which has been crashing frequently, Coverage: 0.32%
+  Issue: Dear Support Team , 
+
+
+ I am facing a critical issue in our application involving an error connecting to the PostgreSQL database ., Coverage: 0.32%
+  Issue: Dear Support Team , 
+
+
+ I am experiencing a significant issue within our application related to an error when connecting to the PostgreSQL database ., Coverage: 0.32%
+
+Product: MySQL
+  Issue: Hello , we encountered severe data loss in MySQL 8.0.30 ., Coverage: 0.32%
+  Issue: to express my concerns regarding performance issues we are encountering with MySQL 8.0.30, Coverage: 0.32%
+  Issue: We have identified that this issue specifically affects the MySQL 8.0.30 product ., Coverage: 0.32%
+
+Product: IT Consulting Fi
+  Issue: Dear IT Consulting Firm Customer Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: to report that < name > is facing intermittent connectivity issues with the AWS servers , which are causing significant disruptions to their business operations, Coverage: 0.32%
+
+Product: IT Support Team
+  Issue: Dear IT Support Team , 
+
+
+ I am reaching out to you urgently for assistance with an important issue ., Coverage: 0.32%
+  Issue: Dear IT Support Team , 
+
+
+ Our client , < name > , is currently experiencing server issues causing significant downtime ., Coverage: 0.32%
+  Issue: Dear IT Support Team , 
+
+
+ I am urgently contacting you to seek immediate help with a significant problem ., Coverage: 0.32%
+
+Product: Online Store
+  Issue: Hello Tech Online Store Support , 
+
+
+ I am experiencing a license error when trying to open Adobe Photoshop 2024 on my MacBook Pro ., Coverage: 0.32%
+  Issue: Hello Tech Online Store Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+
+Product: Cisco Router ISR
+  Issue: To whom it may concern, Coverage: 0.32%
+  Issue: We have been dealing with intermittent connectivity problems with our Cisco Router ISR4331 ., Coverage: 0.32%
+  Issue: to report intermittent connectivity issues experienced with the Cisco Router ISR4331, Coverage: 0.32%
+  Issue: to report that we have been experiencing frequent disconnections and slow performance with our Cisco Router ISR4331 during business hours, Coverage: 0.32%
+  Issue: to bring to your attention a significant issue we are facing with one of your products, Coverage: 0.32%
+
+Product: IT Services Customer Support
+  Issue: to bring to your immediate attention a significant issue we are experiencing with the ticket system related to our IT Consulting Service, Coverage: 0.32%
+  Issue: Dear IT Services Customer Support,<br><br > I hope this message finds you well ., Coverage: 0.32%
+  Issue: Dear IT Services Customer Support,<br><br > I trust this message reaches you in good spirits ., Coverage: 0.32%
+
+Product: IT Services Customer
+  Issue: Dear IT Services Customer Support , 
+
+
+ I am reaching out to report a significant increase in deployment costs and infrastructure instability within our AWS Management Service ., Coverage: 0.32%
+
+Product: IT Consulting Firm Support Team
+  Issue: to bring to your immediate attention an issue we are facing with accessing the AWS Console through your provided AWS Management Service, Coverage: 0.32%
+
+Product: Microsoft Outlook
+  Issue: to inform you that < name > is experiencing difficulties accessing their emails through Microsoft Outlook via Office 365, Coverage: 0.32%
+
+Product: Hello Support Team
+  Issue: Hello Support Team , we are currently facing a major problem with our server management that is hindering our ticketing system and software development initiatives ., Coverage: 0.32%
+  Issue: Hello Support Team , we are facing a significant problem with the server management that is hindering our ticketing platform and software development processes ., Coverage: 0.32%
+  Issue: Hello Support Team , we are presently encountering a major problem with server management , which is obstructing our ticketing system and software development efforts ., Coverage: 0.32%
+  Issue: Hello Support Team , we are encountering a severe problem with the server management that is affecting our ticketing system and software development tasks ., Coverage: 0.32%
+
+Product: Support
+  Issue: to request assistance concerning guidance services, Coverage: 0.32%
+
+Product: Microsoft Office 365
+  Issue: I rely heavily on Microsoft Office 365 for my work and hope to have this issue sorted as soon as possible ., Coverage: 0.32%
+  Issue: Dear Customer Support , I am requesting the billing details for my upcoming service renewal for Microsoft Office 365 ., Coverage: 0.32%
+  Issue: to address a billing discrepancy I 've encountered concerning the recent renewal of my Microsoft Office 365 subscription, Coverage: 0.32%
+
+Product: Samsung Q
+  Issue: I recently came across the Samsung QLED QN90A and wanted to request some detailed information about its features ., Coverage: 0.32%
+
+Product: Tech Online Store Custom
+  Issue: Dear Tech Online Store Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+
+Product: IT Services Custom
+  Issue: Dear IT Services Customer Support , 
+
+
+ I hope this message finds you well ., Coverage: 0.64%
+
+Product: Epson EcoTan
+  Issue: to express my concerns regarding the Epson EcoTank ET-4760 printer that I purchased from your Tech Online Store, Coverage: 0.32%
+  Issue: Epson EcoTank ET-4760 wo n't connect to the network, Coverage: 0.32%
+
+Product: Canon PIXMA MG36
+  Issue: to request assistance with setting up the wireless feature on my new Canon PIXMA MG3620 printer , which I recently purchased from your store, Coverage: 0.32%
+  Issue: I would appreciate help setting up my Canon PIXMA MG3620 for wireless printing at my residence ., Coverage: 0.32%
+
+Product: Microsoft Excel
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing frequent crashes in Microsoft Excel when applying macros , which is severely impacting our ongoing project ., Coverage: 0.32%
+
+Product: IT Service Support
+  Issue: to report a critical issue with the AWS Management Service , which appears to be down, Coverage: 0.32%
+
+Product: Visual Studio Code 1
+  Issue: I have encountered numerous crashes with Visual Studio Code 1.70 while trying to debug code ., Coverage: 0.32%
+
+Product: Customer Service Team
+  Issue: Hello Customer Service Team , 
+
+
+ I hope you are doing well ., Coverage: 0.32%
+
+Product: er Service Team
+  Issue: Dear Customer Service Team , 
+
+
+ I am experiencing boot issues with my Dell XPS 13 9310 laptop running Windows 10 ., Coverage: 0.32%
+
+Product: Assistance Team
+  Issue: Dear Customer Assistance Team , 
+
+
+ I am contacting you to request prompt expert support concerning our IT Consulting Service ., Coverage: 0.32%
+
+Product: Jira
+  Issue: Please assist in resolving this issue with Jira Software 8.20 version ., Coverage: 0.32%
+  Issue: Dear Customer Support , 
+
+
+ I am contacting you to request the setup of a new project in Jira to facilitate our upcoming tasks and enhance collaboration within our team ., Coverage: 0.32%
+  Issue: We are currently using Jira Software version 8.20 ., Coverage: 0.32%
+
+Product: IT Consulting Support
+  Issue: to urgently request your immediate IT consulting services for an issue with the network that one of my clients is experiencing, Coverage: 0.32%
+
+Product: IntelliJ IDEA
+  Issue: to report an issue with IntelliJ IDEA 2024.1 , which has been experiencing recurring crashes after the recent update, Coverage: 0.32%
+  Issue: I rely heavily on IntelliJ IDEA for my projects , and this issue is causing delays ., Coverage: 0.32%
+
+Product: Cisco Router ISR43
+  Issue: The Cisco Router ISR4331 disconnects often , disrupting critical communications during enterprise conferences ., Coverage: 0.32%
+  Issue: The Cisco Router ISR4331 often experiences connection drops , obstructing vital communication during company conferences ., Coverage: 0.32%
+  Issue: The Cisco Router ISR4331 often experiences connection drops , leading to disruptions in critical communication during business conferences ., Coverage: 0.32%
+
+Product: er Support Team
+  Issue: Dear Customer Support Team , 
+
+
+ I hope this message finds you well ., Coverage: 0.32%
+  Issue: to report an issue concerning incorrect billing charges on my recent invoice for the AWS Management Service under my account number < acc_num, Coverage: 0.32%
+
+Product: Customer Support Team
+  Issue: Hello Customer Support Team , 
+
+
+ I trust this message finds you in good spirits ., Coverage: 0.32%
+  Issue: Hello Customer Support Team , 
+
+
+ I am contacting you for help with some billing issues I have noticed concerning our AWS cloud computing services , specifically linked to the AWS Management Service ., Coverage: 0.32%
+
+Product: IT Consulting Firm
+  Issue: Dear Support Team of the IT Consulting Firm , a serious problem has emerged with our server management while using your consulting services ., Coverage: 0.32%
+  Issue: Dear Support Team at IT Consulting Firm , we have encountered an urgent problem with our server management while using your consulting services ., Coverage: 0.32%
+
+Product: Gmail
+  Issue: to report an issue we are experiencing with Gmail not syncing across our devices within Google Workspace Business Standard, Coverage: 0.32%
+
+Product: Excel
+  Issue: Dear Customer Support , 
+
+
+ I am experiencing an installation error with Excel in Microsoft Office 365 and require assistance to resolve the issue promptly ., Coverage: 0.32%
+  Issue: The error occurs during the installation phase and has impeded my ability to utilize necessary features in Excel , impacting my productivity ., Coverage: 0.32%
+
+Product: Google Workspace
+  Issue: Dear Customer Support , 
+
+
+ We are currently experiencing an outage with Google Workspace email and collaboration services ., Coverage: 0.32%
+
+Product: IT Consulting Support Team
+  Issue: to bring to your immediate attention an issue with the ticket system integration that is significantly impacting < name > 's project management workflow, Coverage: 0.32%
+
+Product: Service
+  Issue: Dear Customer Service , 
+
+
+ I am encountering regular crashes with my Cisco Router ISR4331 , which is greatly affecting my network performance ., Coverage: 0.32%
+
+Product: Customer Care Team
+  Issue: Hello Customer Care Team , 
+
+
+ We are facing recurrent disconnections with our Cisco Router ISR4331 , which is significantly disrupting our office connectivity ., Coverage: 0.32%
+
+Templates:
+These are just placeholders.  Replace with actual templates.
+Cisco Router Network Template: This is a placeholder for the Cisco network template
+Cisco Router Heating Template: This is a placeholder for the Cisco heating template
+Dell XPS Crash Template: This is a placeholder for the Dell crash template
+
